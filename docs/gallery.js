@@ -14,6 +14,99 @@
 
   const works = C.works;
   const byWork = Object.fromEntries(works.map((w) => [w.id, w]));
+
+  // Image loading. GitHub Pages rate-limits bursts, so tiles are fetched only
+  // when they are near the viewport, a few at a time, and a failed request
+  // (429, 5xx, network) is retried later with a growing delay.
+  const MAX_INFLIGHT = 6;
+  const MAX_TRIES = 5;
+  const pending = [];
+  let inflight = 0;
+  const seen = "IntersectionObserver" in window
+    ? new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (!e.isIntersecting) return;
+          seen.unobserve(e.target);
+          enqueue(e.target, true);
+        });
+      }, { root: wall, rootMargin: "700px" })
+    : null;
+
+  function enqueue(img, front) {
+    if (img.dataset.state === "done" || img.dataset.state === "loading") return;
+    if (front) pending.unshift(img); else pending.push(img);
+    pump();
+  }
+
+  function pump() {
+    while (inflight < MAX_INFLIGHT && pending.length) {
+      const img = pending.shift();
+      if (!img.isConnected || img.dataset.state === "done") continue;
+      start(img);
+    }
+  }
+
+  function start(img) {
+    const tries = Number(img.dataset.tries || 0);
+    img.dataset.state = "loading";
+    inflight++;
+    const settle = () => { inflight--; pump(); };
+    img.onload = () => {
+      img.dataset.state = "done";
+      img.classList.add("ready");
+      settle();
+    };
+    img.onerror = () => {
+      img.dataset.state = "failed";
+      settle();
+      if (tries + 1 >= MAX_TRIES) return;
+      img.dataset.tries = String(tries + 1);
+      setTimeout(() => { if (img.isConnected) enqueue(img, false); }, 900 * Math.pow(2, tries));
+    };
+    img.src = img.dataset.src + (tries ? "?retry=" + tries : "");
+  }
+
+  function makeImg(im) {
+    const img = document.createElement("img");
+    img.alt = im.title || "Painting";
+    img.decoding = "async";
+    img.dataset.src = im.thumb || im.src;
+    if (seen) seen.observe(img); else enqueue(img, false);
+    return img;
+  }
+
+  // A new wall is laid out straight away, not animated from the corner, so
+  // the loader sees each tile where it really is. Motion resumes after.
+  function skipFirstAnimation(canvas) {
+    requestAnimationFrame(() => requestAnimationFrame(() => canvas.classList.remove("no-anim")));
+  }
+
+  // Start a fresh wall: forget tiles that were on the old one.
+  function resetLoader() {
+    if (seen) seen.disconnect();
+    pending.length = 0;
+  }
+
+  // The enlarged painting swaps to the bigger file once it has downloaded.
+  function upgradeImage(id) {
+    const im = C.images.find((x) => x.id === id);
+    const img = wall.querySelector('.tile[data-id="' + id + '"] img');
+    if (!im || !img || !im.large || im.large === im.thumb || img.dataset.big === "1") return;
+    img.dataset.big = "1";
+    let tries = 0;
+    const attempt = () => {
+      const big = new Image();
+      big.onload = () => { img.src = big.src; };
+      big.onerror = () => {
+        // A 429 or a network blip: back off and try again a few times, else keep the thumbnail.
+        if (++tries >= 4) { img.dataset.big = ""; return; }
+        setTimeout(attempt, 900 * Math.pow(2, tries - 1));
+      };
+      big.src = im.large + (tries ? "?retry=" + tries : "");
+    };
+    attempt();
+  }
+
   let sortKey = "year";
   let sortDir = 1;
   let mode = "works";
@@ -189,18 +282,15 @@
     }
     if (key !== mosaicKey) {
       const canvas = document.createElement("div");
-      canvas.className = "mosaic";
+      canvas.className = "mosaic no-anim";
+      resetLoader();
       items.forEach((im) => {
         const fig = document.createElement("figure");
         fig.className = "tile";
         fig.dataset.id = im.id;
         fig.dataset.work = im.work_id || "";
         fig.tabIndex = 0;
-        const img = document.createElement("img");
-        img.src = im.src;
-        img.alt = im.title || "Painting";
-        img.loading = "lazy";
-        img.decoding = "async";
+        const img = makeImg(im);
         const cap = document.createElement("figcaption");
         cap.innerHTML = caption(im);
         fig.append(img, cap);
@@ -225,6 +315,7 @@
       });
       wall.replaceChildren(canvas);
       mosaicKey = key;
+      skipFirstAnimation(canvas);
     }
     place(items);
   }
@@ -452,18 +543,15 @@
     }
     if (key !== mosaicKey) {
       const canvas = document.createElement("div");
-      canvas.className = "mosaic";
+      canvas.className = "mosaic no-anim";
+      resetLoader();
       list.forEach((im) => {
         const fig = document.createElement("figure");
         fig.className = "tile";
         fig.dataset.id = im.id;
         fig.dataset.work = im.work_id || "";
         fig.tabIndex = 0;
-        const img = document.createElement("img");
-        img.src = im.src;
-        img.alt = im.title || "Painting";
-        img.loading = "lazy";
-        img.decoding = "async";
+        const img = makeImg(im);
         const cap = document.createElement("figcaption");
         cap.innerHTML = caption(im);
         fig.append(img, cap);
@@ -485,6 +573,7 @@
       });
       wall.replaceChildren(canvas);
       mosaicKey = key;
+      skipFirstAnimation(canvas);
       mapCache = null;
     }
     placeMap(list);
@@ -493,6 +582,7 @@
   function toggle(id, items) {
     openId = openId === id ? null : id;
     layout(items);
+    if (openId) upgradeImage(openId);
     const im = C.images.find((x) => x.id === id);
     if (im && im.work_id) selectWork(im.work_id, false);
     const tile = wall.querySelector('.tile[data-id="' + id + '"]');

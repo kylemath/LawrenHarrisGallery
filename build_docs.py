@@ -276,6 +276,43 @@ def collect_images(meta):
     return images
 
 
+THUMB_PX = 640    # grid tiles, including the hover enlargement
+LARGE_PX = 1400   # click-to-enlarge
+
+
+def make_web_copies(images):
+    """GitHub Pages serves only docs/, and the originals are ~115 MB. Write small
+    WebP copies inside docs/img/ (named by content hash, so they survive id
+    changes) and record their paths. Existing copies are reused."""
+    out_t = OUT.parent / "img" / "t"
+    out_l = OUT.parent / "img" / "l"
+    out_t.mkdir(parents=True, exist_ok=True)
+    out_l.mkdir(parents=True, exist_ok=True)
+    made = 0
+    for im in images:
+        name = im["sha"][:16]
+        t_path, l_path = out_t / f"{name}.webp", out_l / f"{name}.webp"
+        im["thumb"] = f"img/t/{name}.webp"
+        src = (OUT.parent / im["src"]).resolve()
+        with Image.open(src) as raw:
+            big_enough = max(raw.size) > THUMB_PX * 1.15
+            wants_large = max(raw.size) > LARGE_PX * 0.6
+            for path, px, q in ((t_path, THUMB_PX, 80), (l_path, LARGE_PX, 82)):
+                if path.exists() or (path is l_path and not wants_large):
+                    continue
+                pic = raw.convert("RGBA") if raw.mode in ("P", "LA", "RGBA") else raw.convert("RGB")
+                if pic.mode == "RGBA":
+                    flat = Image.new("RGB", pic.size, (255, 255, 255))
+                    flat.paste(pic, mask=pic.split()[-1])
+                    pic = flat
+                if max(pic.size) > px:
+                    pic.thumbnail((px, px), Image.LANCZOS)
+                pic.save(path, "WEBP", quality=q, method=6)
+                made += 1
+        im["large"] = f"img/l/{name}.webp" if wants_large else im["thumb"]
+    return made
+
+
 def title_score(a, b):
     if not a or not b:
         return 0
@@ -410,10 +447,13 @@ def main():
             "extra": bool(w.get("extra")),
             "images": ids[:6],
         })
+    made = make_web_copies(images)
+    print(f"web copies written: {made}")
     out_images = []
     for i, im in enumerate(sorted(images, key=lambda x: (x["year"] or 9999, x["title"] or "")), 1):
         out_images.append({
-            "id": f"i{i:04d}", "src": im["src"], "title": im["title"], "year": im["year"],
+            "id": f"i{i:04d}", "src": im["src"], "thumb": im["thumb"], "large": im["large"],
+            "title": im["title"], "year": im["year"],
             "w": im["w"], "h": im["h"], "aspect": im["aspect"], "source": im["source"],
             "page": im["page"], "collection": im["collection"], "medium": im["medium"],
             "work_id": im["work_id"], "primary": im["primary"], "copies": im["copies"],
