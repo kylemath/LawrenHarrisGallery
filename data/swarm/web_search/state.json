@@ -1,0 +1,824 @@
+{
+  "done_queries": {
+    "openverse::Lawren Harris Mount Lefroy painting": {
+      "hits": 2,
+      "ts": "2026-09-30T08:56:43"
+    },
+    "bing::Lawren Harris Mount Lefroy painting": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:03"
+    },
+    "openverse::Lawren Harris Pic Island painting": {
+      "hits": 0,
+      "ts": "2026-09-30T08:57:05"
+    },
+    "bing::Lawren Harris Pic Island painting": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:09"
+    },
+    "openverse::Lawren Harris Above Lake Superior": {
+      "hits": 3,
+      "ts": "2026-09-30T08:57:12"
+    },
+    "bing::Lawren Harris Above Lake Superior": {
+      "hits": 0,
+      "ts": "2026-09-30T08:57:14"
+    },
+    "openverse::Lawren Harris North Shore Lake Superior": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:21"
+    },
+    "bing::Lawren Harris North Shore Lake Superior": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:22"
+    },
+    "openverse::Lawren Harris Lake and Mountains": {
+      "hits": 3,
+      "ts": "2026-09-30T08:57:28"
+    },
+    "bing::Lawren Harris Lake and Mountains": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:32"
+    },
+    "openverse::Lawren Harris Mountain Forms": {
+      "hits": 1,
+      "ts": "2026-09-30T08:57:35"
+    },
+    "bing::Lawren Harris Mountain Forms": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:36"
+    },
+    "openverse::Lawren Harris Isolation Peak": {
+      "hits": 1,
+      "ts": "2026-09-30T08:57:39"
+    },
+    "bing::Lawren Harris Isolation Peak": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:42"
+    },
+    "openverse::Lawren Harris Maligne Lake": {
+      "hits": 2,
+      "ts": "2026-09-30T08:57:44"
+    },
+    "bing::Lawren Harris Maligne Lake": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:45"
+    },
+    "openverse::Lawren Harris Icebergs Davis Strait": {
+      "hits": 1,
+      "ts": "2026-09-30T08:57:48"
+    },
+    "bing::Lawren Harris Icebergs Davis Strait": {
+      "hits": 3,
+      "ts": "2026-09-30T08:57:52"
+    },
+    "openverse::Lawren Harris From the North Shore Lake Superior": {
+      "hits": 5,
+      "ts": "2026-09-30T08:57:54"
+    },
+    "bing::Lawren Harris From the North Shore Lake Superior": {
+      "hits": 8,
+      "ts": "2026-09-30T08:57:58"
+    },
+    "openverse::Lawren Harris Afternoon Sun North Shore": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:00"
+    },
+    "bing::Lawren Harris Afternoon Sun North Shore": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:01"
+    },
+    "openverse::Lawren Harris Bylot Island": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:03"
+    },
+    "bing::Lawren Harris Bylot Island": {
+      "hits": 3,
+      "ts": "2026-09-30T08:58:07"
+    },
+    "openverse::Lawren Harris Lake Superior Sketch": {
+      "hits": 1,
+      "ts": "2026-09-30T08:58:09"
+    },
+    "bing::Lawren Harris Lake Superior Sketch": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:10"
+    },
+    "openverse::Lawren Harris Lake Superior painting": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:12"
+    },
+    "bing::Lawren Harris Lake Superior painting": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:15"
+    },
+    "openverse::Lawren Harris Algoma painting": {
+      "hits": 4,
+      "ts": "2026-09-30T08:58:22"
+    },
+    "bing::Lawren Harris Algoma painting": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:23"
+    },
+    "openverse::Lawren Harris Rocky Mountains Jasper": {
+      "hits": 1,
+      "ts": "2026-09-30T08:58:26"
+    },
+    "bing::Lawren Harris Rocky Mountains Jasper": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:28"
+    },
+    "openverse::Lawren Harris Baffin Island Arctic sketches": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:29"
+    },
+    "bing::Lawren Harris Baffin Island Arctic sketches": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:32"
+    },
+    "openverse::Lawren Harris Nerke Greenland": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:34"
+    },
+    "bing::Lawren Harris Nerke Greenland": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:35"
+    },
+    "openverse::Lawren Harris Toronto Ward houses urban": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:37"
+    },
+    "bing::Lawren Harris Toronto Ward houses urban": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:39"
+    },
+    "openverse::Lawren Harris abstract paintings Santa Fe": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:41"
+    },
+    "bing::Lawren Harris abstract paintings Santa Fe": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:43"
+    },
+    "openverse::Lawren Harris abstract Vancouver transcendental": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:44"
+    },
+    "bing::Lawren Harris abstract Vancouver transcendental": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:48"
+    },
+    "openverse::Lawren Harris oil sketch Group of Seven": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:50"
+    },
+    "bing::Lawren Harris oil sketch Group of Seven": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:51"
+    },
+    "openverse::Lawren S. Harris painting Group of Seven": {
+      "hits": 1,
+      "ts": "2026-09-30T08:58:55"
+    },
+    "bing::Lawren S. Harris painting Group of Seven": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:56"
+    },
+    "openverse::Lawren Harris snow painting Canadian": {
+      "hits": 0,
+      "ts": "2026-09-30T08:58:58"
+    },
+    "bing::Lawren Harris snow painting Canadian": {
+      "hits": 8,
+      "ts": "2026-09-30T08:58:59"
+    },
+    "openverse::Lawren Harris tree painting Algoma": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:01"
+    },
+    "bing::Lawren Harris tree painting Algoma": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:03"
+    },
+    "openverse::Lawren Harris peinture Groupe des Sept": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:05"
+    },
+    "bing::Lawren Harris peinture Groupe des Sept": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:07"
+    },
+    "openverse::Lawren Harris peinture Lac Sup\u00e9rieur": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:08"
+    },
+    "bing::Lawren Harris peinture Lac Sup\u00e9rieur": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:11"
+    },
+    "openverse::Lawren Harris Gem\u00e4lde Group of Seven": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:13"
+    },
+    "bing::Lawren Harris Gem\u00e4lde Group of Seven": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:14"
+    },
+    "openverse::Lawren Harris pintura Grupo de los Siete": {
+      "hits": 1,
+      "ts": "2026-09-30T08:59:18"
+    },
+    "bing::Lawren Harris pintura Grupo de los Siete": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:20"
+    },
+    "openverse::Lawren Harris montagna dipinto": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:22"
+    },
+    "bing::Lawren Harris montagna dipinto": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:23"
+    },
+    "openverse::\"Lawren Harris\" painting private collection": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:25"
+    },
+    "bing::\"Lawren Harris\" painting private collection": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:29"
+    },
+    "openverse::\"Lawren S. Harris\" oil on canvas": {
+      "hits": 5,
+      "ts": "2026-09-30T08:59:32"
+    },
+    "bing::\"Lawren S. Harris\" oil on canvas": {
+      "hits": 3,
+      "ts": "2026-09-30T08:59:36"
+    },
+    "openverse::\"Lawren Harris\" exhibition painting image": {
+      "hits": 0,
+      "ts": "2026-09-30T08:59:37"
+    },
+    "bing::\"Lawren Harris\" exhibition painting image": {
+      "hits": 8,
+      "ts": "2026-09-30T08:59:39"
+    },
+    "commons::Lawren Harris Mount Lefroy painting": {
+      "hits": 0,
+      "ts": "2026-09-30T09:02:24"
+    },
+    "yandex::Lawren Harris Mount Lefroy painting": {
+      "hits": 12,
+      "ts": "2026-09-30T09:02:46"
+    },
+    "commons::Lawren Harris Pic Island painting": {
+      "hits": 3,
+      "ts": "2026-09-30T09:03:34"
+    },
+    "yandex::Lawren Harris Pic Island painting": {
+      "hits": 12,
+      "ts": "2026-09-30T09:03:45"
+    },
+    "commons::Lawren Harris Above Lake Superior": {
+      "hits": 6,
+      "ts": "2026-09-30T09:04:02"
+    },
+    "yandex::Lawren Harris Above Lake Superior": {
+      "hits": 12,
+      "ts": "2026-09-30T09:04:20"
+    },
+    "commons::Lawren Harris North Shore Lake Superior": {
+      "hits": 0,
+      "ts": "2026-09-30T09:04:51"
+    },
+    "yandex::Lawren Harris North Shore Lake Superior": {
+      "hits": 12,
+      "ts": "2026-09-30T09:05:01"
+    },
+    "commons::Lawren Harris Lake and Mountains": {
+      "hits": 12,
+      "ts": "2026-09-30T09:05:34"
+    },
+    "yandex::Lawren Harris Lake and Mountains": {
+      "hits": 12,
+      "ts": "2026-09-30T09:05:53"
+    },
+    "commons::Lawren Harris Mountain Forms": {
+      "hits": 12,
+      "ts": "2026-09-30T09:06:10"
+    },
+    "yandex::Lawren Harris Mountain Forms": {
+      "hits": 12,
+      "ts": "2026-09-30T09:06:27"
+    },
+    "commons::Lawren Harris Isolation Peak": {
+      "hits": 0,
+      "ts": "2026-09-30T09:06:57"
+    },
+    "yandex::Lawren Harris Isolation Peak": {
+      "hits": 12,
+      "ts": "2026-09-30T09:07:09"
+    },
+    "commons::Lawren Harris Maligne Lake": {
+      "hits": 0,
+      "ts": "2026-09-30T09:07:39"
+    },
+    "yandex::Lawren Harris Maligne Lake": {
+      "hits": 12,
+      "ts": "2026-09-30T09:07:56"
+    },
+    "commons::Lawren Harris Icebergs Davis Strait": {
+      "hits": 0,
+      "ts": "2026-09-30T09:08:03"
+    },
+    "yandex::Lawren Harris Icebergs Davis Strait": {
+      "hits": 12,
+      "ts": "2026-09-30T09:08:16"
+    },
+    "commons::Lawren Harris From the North Shore Lake Superior": {
+      "hits": 0,
+      "ts": "2026-09-30T09:08:46"
+    },
+    "yandex::Lawren Harris From the North Shore Lake Superior": {
+      "hits": 12,
+      "ts": "2026-09-30T09:08:50"
+    },
+    "commons::Lawren Harris Afternoon Sun North Shore": {
+      "hits": 8,
+      "ts": "2026-09-30T09:09:07"
+    },
+    "yandex::Lawren Harris Afternoon Sun North Shore": {
+      "hits": 12,
+      "ts": "2026-09-30T09:09:13"
+    },
+    "commons::Lawren Harris Bylot Island": {
+      "hits": 1,
+      "ts": "2026-09-30T09:09:45"
+    },
+    "yandex::Lawren Harris Bylot Island": {
+      "hits": 12,
+      "ts": "2026-09-30T09:09:56"
+    },
+    "commons::Lawren Harris Lake Superior Sketch": {
+      "hits": 7,
+      "ts": "2026-09-30T09:10:03"
+    },
+    "yandex::Lawren Harris Lake Superior Sketch": {
+      "hits": 12,
+      "ts": "2026-09-30T09:10:17"
+    },
+    "commons::Lawren Harris Lake Superior painting": {
+      "hits": 0,
+      "ts": "2026-09-30T09:10:48"
+    },
+    "yandex::Lawren Harris Lake Superior painting": {
+      "hits": 12,
+      "ts": "2026-09-30T09:10:54"
+    }
+  },
+  "seen_image_urls": [
+    "https://live.staticflickr.com/8096/29550285922_24c3c5d4ce_b.jpg",
+    "https://live.staticflickr.com/65535/40821777393_6709f1b0dd.jpg",
+    "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/mount-lefroy-by-lawren-harris-1930-m-g-whittingham.jpg",
+    "https://uploads1.wikiart.org/images/lawren-harris/mount-lefroy-1930.jpg",
+    "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/mount-lefroy-1930-by-lawren-harris-lawren-stewart-harris.jpg",
+    "https://2.bp.blogspot.com/-n1qbcq6MKQc/W-bztepc9eI/AAAAAAAAPqc/qnl0E-n6xNQuPJgcs16t3bnM_TJeMP58QCK4BGAYYCw/s1600/Lawren%2BHarris%2B%25281885-1970%2529-%2B_Mountains_in_Snow_Rocky_Mountain_Paintings_VII_Thomson_Co%2B-%2B1929l.jpg",
+    "https://mcmichael.com/wp-content/uploads/2025/12/1986.1.jpg",
+    "https://mcmichael.com/wp-content/uploads/2025/12/1971.12.jpg",
+    "http://www.manorhillfineart.com/regal/rcanlh13.jpg",
+    "https://groupofsevenart.com/wp-content/uploads/2020/06/lawren-harris-mount-lefroy-1.jpg",
+    "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/838e1429-eca0-4892-a08e-22d7dce20201/ditl8xf-d394da79-ac12-4294-b25f-77100884029f.png/v1/fill/w_1280,h_960,q_80,strp/weight_gain_before_after_by_nebula_ai_ditl8xf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvODM4ZTE0MjktZWNhMC00ODkyLWEwOGUtMjJkN2RjZTIwMjAxXC9kaXRsOHhmLWQzOTRkYTc5LWFjMTItNDI5NC1iMjVmLTc3MTAwODg0MDI5Zi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9_NFIyspeAtIUSf3hIAy4_xdq-xrdVyCPuK6vBO_HFM",
+    "https://www.scientificanimations.com/wp-content/uploads/2019/12/SAG_Wilsons-Disease_191118_02.jpg",
+    "https://cdn.shopify.com/s/files/1/0022/9303/9202/products/Periodic-table-science-poster-LAMINATED-chart-teaching-white-elements-classroom-decoration-premium-educators-atomic-numb-B07BDFHL38_1200x1200.jpg?v=1546025887",
+    "https://fthmb.tqn.com/8L5xn0ibX4waSsrFJGjyyFtUTSM=/1920x1080/filters:fill(auto,1)/PeriodicTable-White-58b5d8c15f9b586046df020c.png",
+    "https://cdn.shopify.com/s/files/1/0326/3840/2604/files/FINAL_CORRECTED_VERSION_PERIODIC_TABLE_2025_4.7MB.jpg?v=1747923265",
+    "https://sciencenotes.org/wp-content/uploads/2015/08/PeriodicTableChartBBG.png",
+    "https://periodictable.me/wp-content/uploads/2018/05/periodic_table_complete.png",
+    "https://sciencenotes.org/wp-content/uploads/2016/07/ShinyPeriodicTable.png",
+    "https://live.staticflickr.com/4251/34348095384_bcb930c1fd_b.jpg",
+    "https://live.staticflickr.com/65535/52240245802_f4cdc42f0a_b.jpg",
+    "https://live.staticflickr.com/65535/46871747855_4ce63aed0a.jpg",
+    "https://live.staticflickr.com/8547/29349469900_83c461a90c_b.jpg",
+    "https://live.staticflickr.com/607/21202390374_2f15df8012_b.jpg",
+    "https://live.staticflickr.com/596/21834711421_6a4f00d67e_b.jpg",
+    "https://live.staticflickr.com/65535/52322634836_a0982bdb05_b.jpg",
+    "https://live.staticflickr.com/3861/14400318853_1cb68ee8b7_b.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1d/Museum_London%2C_London%2C_Ontario_%2821202390374%29.jpg",
+    "https://live.staticflickr.com/65535/50630912741_8d6ddfc634_b.jpg",
+    "https://live.staticflickr.com/65535/50066943226_46b112831e_b.jpg",
+    "https://www.cine.com/media/peliculas/temblores-1990-6975_poster_us_w200.jpg",
+    "https://www.mafab.hu/static/2014/270/08/70679_2.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1_SX300.jpg",
+    "https://l450v.alamy.com/450v/2ywjtpr/total-recall-1990-tristar-sci-fi-film-with-arnold-schwarzenegger-as-douglas-quaid-2ywjtpr.jpg",
+    "https://cdn.agapea.com/Indy-Pub/U-S-SCI-FI-HORROR-FILMS-OF-THE-1950s-i1n25726513.jpg",
+    "https://i.ebayimg.com/images/g/1jsAAOSwZrxl0LYP/s-l400.jpg",
+    "https://www.toyark.com/wp-content/uploads/2019/07/SDCC-2019-NECA-Horror-and-Sci-Fi-001-244x366.jpg",
+    "https://images.static-bluray.com/movies/covers/14445_medium.jpg?t=1419481208",
+    "https://live.staticflickr.com/3562/3393492125_c0049e28f6_m.jpg",
+    "https://live.staticflickr.com/3091/2737130321_e5ae58772e_b.jpg",
+    "https://static.tvtropes.org/pmwiki/pub/images/alexei_8.jpg",
+    "https://everlastwellness.com/wp-content/uploads/2023/08/PERIORAL-DERMATITIS.webp",
+    "https://stirtastesmile.com/wp-content/uploads/2024/10/caramel-coffee-cake-7-1152x1536.jpg",
+    "https://www.recipesbycallie.com/wp-content/uploads/2026/01/tenedce4etfr0ilfy7bv.webp",
+    "https://i.pinimg.com/736x/b3/e8/79/b3e8790d718d89b117d764cfbedb75b4.jpg",
+    "https://theflairbite.com/wp-content/uploads/2025/08/Gooey-Coffee-Caramel-Cake-Recipe-1-1-683x1024.webp",
+    "https://cravorycooks.com/wp-content/uploads/2026/02/0_1-1771354163248.jpeg",
+    "https://www.simmernest.com/wp-content/uploads/2026/01/Rich_Velvety_Coffee_Caramel_Cake_mtz0c6.webp",
+    "https://live.staticflickr.com/7533/29640114175_cd00b3685e_b.jpg",
+    "https://www.dallasvintagetoys.com/images/products/detail/IMG_3321.9.JPG",
+    "https://wallpapercave.com/wp/pXiEYc7.jpg",
+    "https://i.ytimg.com/vi/v711HGI__xk/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/2CDjOijXt7k/maxresdefault.jpg",
+    "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0fe88d01-b42b-4d32-807d-8c94b5094766/dg6jtcb-f099c015-5cc0-46bb-9e25-1d997a84b0ce.png/v1/fill/w_1192,h_670,q_70,strp/my_adventures_with____martian_manhunter_by_joaonorberto_dg6jtcb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzBmZTg4ZDAxLWI0MmItNGQzMi04MDdkLThjOTRiNTA5NDc2NlwvZGc2anRjYi1mMDk5YzAxNS01Y2MwLTQ2YmItOWUyNS0xZDk5N2E4NGIwY2UucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.p8qTyM2FA71tUHuw67kNy03TzQq7AEQJiOWb_3ljgh4",
+    "https://m.media-amazon.com/images/I/71FZrEqsk7L._SL1500_.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3616492946875574489",
+    "https://m.media-amazon.com/images/I/61Vh+WrDD-L._AC_SL1000_.jpg",
+    "https://live.staticflickr.com/8291/29649095066_2269b00d07_b.jpg",
+    "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/01/Genshin-Impact-Dottore-omega-build-.jpg",
+    "https://www.travelandleisure.com/thmb/7vHDx6UqUNlqFeNkynyw92xwmmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lofoten-islands-norway-aurora-borealis-northern-lights-NORWAYLIGHTS1017-20d82f5331f342099cdb418e95809dad.jpg",
+    "https://images.ctfassets.net/6xuvngqqn06x/1fzt7k7sdGN4qaB8wLZ63I/3db3696d7235de2af69ff2e76b626432/1000_shutterstock_150434534_Northern_Lights_Lofoten_Piotr_Krzeslak_WEB.jpg",
+    "https://img.budgettravel.com/_contentHero/Northern-Lights-over-the-Lofoten-Islands-Norway.jpg?mtime=20191015132213",
+    "https://i.pinimg.com/originals/c5/49/0e/c5490e989327a6eb4d37214f5465b688.jpg",
+    "https://farm2.staticflickr.com/1706/23771550023_32ede7b935_k.jpg",
+    "https://i.natgeofe.com/n/22d43fba-6c4d-400d-b6fa-6a2300589c59/GettyImages-1446646686.jpg",
+    "https://cdn.britannica.com/64/94864-050-223C3FE6/Northern-lights-sky-Kautokeino.jpg",
+    "https://live.staticflickr.com/65535/50631026207_19f5c42b84_b.jpg",
+    "https://i.pinimg.com/736x/c9/2d/e3/c92de35992397f7cb81c2457336bee9a.jpg",
+    "https://image.tmdb.org/t/p/original/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
+    "https://i.pinimg.com/736x/aa/f3/08/aaf308ff7b6f0ae19fad1d4cc8e4486b.jpg",
+    "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/agatha-all-along-2024-tv-show-poster.jpg?q=49&fit=contain&w=480&dpr=2",
+    "https://i.pinimg.com/736x/01/14/97/0114971104fdcace5af21c0257e496bc.jpg",
+    "https://image.tmdb.org/t/p/w1280/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
+    "https://i.pinimg.com/originals/f3/28/cb/f328cb5cdf28883047dfc366ebea0186.png",
+    "https://bleedingcool.com/wp-content/uploads/2024/12/Agatha-Christie-\u2013-Death-On-The-Nile-banner.jpg",
+    "https://live.staticflickr.com/8027/29370533040_cd3115c679_b.jpg",
+    "https://clipartmag.com/images/playing-cards-clipart-12.jpg",
+    "https://fr.web.img4.acsta.net/r_1280_720/pictures/15/05/19/10/00/238020.jpg",
+    "https://i.pinimg.com/736x/38/9e/1f/389e1f344a32bed391f2401bd96e4e56.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Museum_London%2C_London%2C_Ontario_%2821834711421%29.jpg",
+    "https://cinefilms-planet.fr/wp-content/uploads/2010/04/pr-t-personnag-wall-e-06.jpg",
+    "https://images.plusmood.com/wp-content/uploads/2024/11/modern-art-inspired-living-room.jpg",
+    "https://i.pinimg.com/originals/b9/e8/b0/b9e8b0928778e633aa6b7ff577fd8903.jpg",
+    "https://www.guideoftheworld.com/map/world/continent/seven-continent-map.jpg",
+    "https://worldmapblank.com/wp-content/uploads/2020/10/Labeled-World-Map-with-Continents-1.jpg",
+    "https://www.allplacesmap.com/maps/world-map-with-continents.jpg",
+    "https://i2.wp.com/yr4qofa.weebly.com/uploads/1/0/4/3/104325819/world_map.png",
+    "https://i.pinimg.com/originals/1c/b1/b2/1cb1b2ea88271039e9292451b2ab015c.jpg",
+    "https://thumbs.dreamstime.com/b/vestrahorn-mountain-black-sand-beach-stokksnes-peninsula-iceland-dramatic-landscape-atlantic-ocean-southeastern-280092405.jpg",
+    "https://windows10spotlight.com/wp-content/uploads/2022/05/a812a9879eb7f8faa85124879b8866fa.jpg",
+    "https://thumbs.dreamstime.com/b/vestrahorn-mountain-black-sand-beach-stokksnes-peninsula-iceland-vestrahorn-mountain-black-sand-beach-stokksnes-361938475.jpg",
+    "https://img.freepik.com/premium-photo/aerial-view-stokksnes-black-sand-beach-with-massive-rocky-mountain-crest-vestrahorn-iceland-nordic-landscape-surrounding-icelandic-nature-with-atlantic-ocean-coast-winter-wonderland_482257-69429.jpg?w=1380",
+    "https://static.vecteezy.com/system/resources/previews/010/726/144/large_2x/beautiful-sunrise-over-vestrahorn-mountain-and-black-sand-beach-in-atlantic-ocean-at-stokksnes-on-the-southeastern-at-iceland-photo.jpg",
+    "https://static.vecteezy.com/system/resources/previews/034/530/872/large_2x/sunrise-over-vestrahorn-mountain-on-black-sand-beach-in-stokksnes-peninsula-at-iceland-photo.jpg",
+    "https://img.freepik.com/premium-photo/dramatic-sunset-sky-vestrahorn-mountain-black-sand-beach-stokksnes-peninsula-iceland_49071-13943.jpg?w=1380",
+    "https://media.gettyimages.com/id/1619070565/photo/sunrise-over-vestrahorn-mountain-on-black-sand-beach-in-stokksnes-peninsula-at-iceland.jpg?s=1024x1024&w=gi&k=20&c=hHyOrUGtURHVQAFmlfoHP1brQvbQrMVvWVJF3547pOo=",
+    "https://www.gurully.com/blog/wp-content/uploads/2025/05/PTE-Core-Score-Chart-Everything-You-Need-to-Know-table-02-1.png",
+    "https://canadatelecoms.ca/wp-content/uploads/2023/09/Sep27-Blog-Image.png",
+    "https://i.sstatic.net/26HpY.jpg",
+    "https://i.ebayimg.com/images/g/xi0AAOSw5dBi~1Zj/s-l1600.jpg",
+    "https://i.ytimg.com/vi/iln4q2j5dys/maxresdefault.jpg",
+    "http://www.jeremywellindustry.com/cdn/shop/files/f7c79fb1-81f3-41fa-85f3-3f117de18c90.png?v=1755882622",
+    "https://waynetruck.com/images/resources/Meritor Q Cam.png",
+    "https://i.ebayimg.com/images/g/4CQAAOSwVthl~Z3T/s-l1600.jpg",
+    "https://fleetpropt.com/cdn/shop/files/fp4707q23k-4707q-brake-shoe-kit-165-x-7-q-plus-style-complete-hardware-included-fleetpro-9957250.png?v=1775066117&width=1680",
+    "https://www.tradetrucks.com.au/wp-content/uploads/2022/06/q-plussingle_rev7-19-low_res-scale-2_00x-23104751.jpg",
+    "https://fleetpropt.com/cdn/shop/files/fp4707q23k-4707q-brake-shoe-kit-165-x-7-q-plus-style-complete-hardware-included-fleetpro-8493123.png?v=1775066118&width=2890",
+    "https://live.staticflickr.com/65535/51801989744_097337cc54_b.jpg",
+    "https://live.staticflickr.com/65535/51801622891_703bfa2d9c_b.jpg",
+    "https://live.staticflickr.com/65535/51800679867_eb56eea9f4_b.jpg",
+    "https://www.minecraftskins.com/uploads/preview-skins/2020/11/05/zane-from-aphmau-emerald-secret-15679412.png?v302",
+    "https://www.romstation.fr/romstation/resources/games/psx/cover/81145.jpg?1673826036",
+    "https://www.thevideogamecompany.com/cdn/shop/products/street-fighter-ex-plus-alpha-sony-playstation-1-ps1-013388210305-cover-art.jpg?v=1657401942&width=3671",
+    "https://www.fightersgeneration.com/nf8/game/streetfighter-ex-capcom-ps1-poster-art-by-edayan.jpg",
+    "https://syltefar.com/covers_full/sfex2p_ps.jpg",
+    "https://www.arcade-fighter.com/images/game-covers/street-fighter-ex-plus-alpha-cover.jpg",
+    "https://www.covercentury.com/covers/psx/s/Street-Fighter-Ex-Plus-Alpha-PAL-PSX-FRONT.jpg",
+    "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_1/ps1_streetfighterexplusalpha_eu_thumb.jpg",
+    "https://live.staticflickr.com/2927/14311614151_67d95f69af_b.jpg",
+    "https://live.staticflickr.com/2927/14128431097_c2a8e0d46e_b.jpg",
+    "https://live.staticflickr.com/8675/28676557262_3cd61aca86_b.jpg",
+    "https://live.staticflickr.com/65535/50036436498_df8d812453_b.jpg",
+    "https://static.wixstatic.com/media/6945e3_261f2087e6d24b398c426c263ff59e39~mv2.jpg/v1/fill/w_770,h_431,al_c,q_80,enc_auto/6945e3_261f2087e6d24b398c426c263ff59e39~mv2.jpg",
+    "https://elementalphysio.com.au/wp-content/uploads/2020/07/Thoracic-Outlet-compression-768x346-2.jpg",
+    "https://www.thoracic.theclinics.com/cms/10.1016/j.thorsurg.2006.12.004/asset/2d0b9704-ebfa-4f5b-b1a0-be99d05003ed/main.assets/gr2_lrg.jpg",
+    "https://rydenaturalhealthclinic.com.au/wp-content/uploads/Diagram-of-where-the-Thoracic-Outlet-is-Located.png",
+    "https://www.jvscit.org/cms/10.1016/j.jvscit.2025.101731/asset/80e7543e-59ff-4602-acb9-1af4899a8219/main.assets/gr1_lrg.jpg",
+    "https://static.wixstatic.com/media/be54e7_6a237ddfe794450697036f19c282fb46~mv2.jpg/v1/fill/w_500,h_356,al_c,q_80,enc_avif,quality_auto/be54e7_6a237ddfe794450697036f19c282fb46~mv2.jpg",
+    "https://i2.wp.com/www.nerveinjury.co.uk/wp-content/uploads/TOS-cervical-rib-2.jpg?fit=656%2C410&ssl=1",
+    "https://www.vascularinfo.ie/wp-content/uploads/2022/07/TOS-FIRST-RIB-RESECTION-SURGERY.png",
+    "https://www.usmagazine.com/wp-content/uploads/justin-trudeau-1996-378c4213-29dc-4f7a-8f45-3fd2142291ca.jpg?crop=126px%2C92px%2C659px%2C369px&resize=1600%2C900&quality=86&strip=all",
+    "https://preview.redd.it/young-justin-trudeau-v0-m30vlgje5v7d1.png?width=720&format=png&auto=webp&s=08e0b36b97e270b05ec1f830bab24088ac29d9d1",
+    "https://api.photon.aremedia.net.au/wp-content/uploads/sites/5/2017/03/010317-justin-trudeau-young.jpg?resize=1140%2C641",
+    "https://wp.scoopwhoop.com/wp-content/uploads/2017/03/58b534aa7c998853fc6f6cc7_1f5c8743-803b-433e-9d28-5ff38ab2588d.jpg",
+    "https://preview.redd.it/young-justin-trudeau-v0-60fh7n4e5v7d1.png?width=710&format=png&auto=webp&s=534733ca9622bc500796e0dc0ce2bf653fc0ecea",
+    "https://images.sbs.com.au/dims4/default/a078fd6/2147483647/strip/true/crop/1350x759+0+1/resize/1280x720!/quality/90/?url=http:%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Ftrudaaaaym.png&imwidth=1280",
+    "http://assets.teenvogue.com/photos/58b5f265962037139fd54335/3:2/w_1200,h_630,c_limit/FACEBOOK.jpg",
+    "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://totimes.ca/wp-content/uploads/2017/03/jt2-859x639.jpg",
+    "https://www.animationmagazine.net/wordpress/wp-content/uploads/PAW-Patrol-The-Dino-Movie-Rhubarb.jpg",
+    "https://prod-hub-international.s3-accelerate.amazonaws.com/ccw/LADJFu_29a010K00^%2B%3Fb~p%3FaIoD*UC_-a5cr.png",
+    "https://i.pinimg.com/736x/f2/2c/08/f22c082626ed118c49b47981f781b3be.jpg",
+    "https://todikgames.com/wp-content/uploads/2024/12/incredibox-fazbears-project-v3.jpg",
+    "https://i.ytimg.com/vi/wCWcBGyhqhE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/Vq0pOaL2ORI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gWSgZMA8=&rs=AOn4CLBXJenDXRMrwMvr4DTDgPsDWq2OxQ",
+    "https://todikgames.com/wp-content/uploads/2024/08/incredibox-fnaf.jpg",
+    "https://assets.cocrea.world/ccw/L66RM%25t6%25MWB~qt7xuj%40WBxut7t7-RnohDxu.png",
+    "https://img.freepik.com/premium-vector/tooth-holding-stop-sign-cartoon-mascot-vector_193274-46128.jpg?w=1480",
+    "https://as1.ftcdn.net/jpg/02/01/29/78/1000_F_201297818_cOlwu92XIm9xVb65mocu2SUTKgbIDCCf.jpg",
+    "https://media.istockphoto.com/id/456054655/vector/happy-tooth-holding-a-stop-sign-with-background.jpg?s=1024x1024&w=is&k=20&c=tMreXcZbIENhY5CR-WtHyj-RDjfUWDgmIuN5tlM7ecM=",
+    "https://img.freepik.com/premium-vector/tooth-character-illustration-holding-stop-sign_152558-94397.jpg?w=1060",
+    "https://thumbs.dreamstime.com/b/print-cute-mascot-character-stop-sign-tooth-eps-vector-white-background-208096993.jpg",
+    "https://img.freepik.com/premium-vector/gold-teeth-holding-stop-sign-cartoon-mascot-vector_193274-83880.jpg",
+    "https://thumbs.dreamstime.com/b/tooth-character-28990187.jpg",
+    "https://thumbs.dreamstime.com/b/tooth-character-making-stop-gesture-isolated-white-background-d-illustration-131821419.jpg",
+    "https://www.allthingsdogs.com/wp-content/uploads/2019/07/Border-Collie-Australian-Shepherd-Mix-Puppies.jpg",
+    "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/08/Vegeta-Super-Saiyan-Blue-Evolved-Dragon-Ball-Super-1.jpg?q=49&fit=contain&w=1640&h=820&dpr=2",
+    "https://wallpapercave.com/wp/wp7583328.jpg",
+    "https://wallpapercave.com/wp/wp7515449.jpg",
+    "https://4kwallpapers.com/images/wallpapers/vegeta-super-saiyan-3840x2160-13988.jpg",
+    "https://wallpapercave.com/wp/wp2345604.png",
+    "https://www.xtrafondos.com/wallpapers/vertical/vegeta-super-saiyan-blue-de-dragon-ball-super-4550.jpg",
+    "https://wallpapers.com/images/hd/vegeta-super-saiyan-blue-2000-x-3500-wallpaper-3olhintd3let06ix.jpg",
+    "https://i5.walmartimages.com/seo/Joykidd-Big-Kids-Mid-Calf-Snow-Boots-Hook-and-Loop-Strap-Water-Resistant-Anti-slip-Hiking-Boots-for-Winter-Snow-Play-Outdoor-Walking_f550358a-136d-41e2-bc61-3085e2c80ad4.35bd14edf4f106deb77b3fd4553401ad.jpeg",
+    "https://unearththevoyage.com/wp-content/uploads/2025/09/Salomon-Outway-Mid-ClimaSalomon-Waterproof-Junior-768x885.jpg",
+    "https://contents.mediadecathlon.com/p1869845/k$4406a0c146d4605d1baece92a05b3bc4/quechua-mh500-waterproof-hiking-boots-kids.jpg",
+    "https://contents.mediadecathlon.com/p175328/k$95436910ec68d00f113c3a605203c612/arpenaz-700-warm-children-s-waterproof-hiking-boots-blue.jpg",
+    "https://i5.walmartimages.com/seo/Joykidd-Big-Kids-High-Top-Winter-Hiking-Boots-Hook-and-Loop-Strap-Lug-Sole-Waterproof-Ankle-Boots-for-Snow-Day-Camping-Walking_3ef235fb-0771-46eb-a32b-9b734d515507.8b963a87e975cd7cf526d689bb949a59.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+    "https://i5.walmartimages.com/seo/Joykidd-Big-Kids-High-Top-Winter-Hiking-Boots-Hook-and-Loop-Strap-Lug-Sole-Waterproof-Ankle-Boots-for-Snow-Day-Camping-Walking_45eaf534-1111-4bc7-a253-5bf092bb22f0.6039084471b979ba64cc696d7ea98ca1.jpeg",
+    "https://i5.walmartimages.com/seo/Joykidd-Big-Kids-High-Top-Winter-Hiking-Boots-Hook-and-Loop-Strap-Lug-Sole-Waterproof-Ankle-Boots-for-Snow-Day-Camping-Walking_65ea072b-4600-47bf-8305-fd3fa511748c.b3a8b697757d70026f6007afc1cd0059.jpeg",
+    "https://www.rei.com/media/88388e43-b516-4eaa-8bb1-c84d451b3a0a.jpg",
+    "https://media.gettyimages.com/id/683827360/photo/farmer-on-tractor-moving-bale-of-hay.jpg?s=612x612&w=gi&k=20&c=VXnu5tisU0HSYf9xckhnfj0KY7MN1Zj30tSjxS-Ufzc=",
+    "https://as2.ftcdn.net/v2/jpg/00/63/58/33/1000_F_63583391_OldAlVtd9WGp8HQ4BSf6FOEwL1wW22hG.jpg",
+    "https://editablecalendar.com/files/blue-editable-calendar-template-2027.jpg",
+    "https://blankcalendarpages.com/printable_calendar/yearly/2027-year-calendar-yr1.jpg",
+    "https://editablecalendar.com/files/free-printable-calendar-2027.png",
+    "https://calendar.weloveprintables.net/wp-content/uploads/2025/01/2027-year-calendar-yearly-printable-1.jpg",
+    "https://www.calendarlabs.com/templates/2027/2027-yearly-blank-calendar-template.jpg",
+    "https://www.calendarpedia.com/images-large/2027-calendar-color.png",
+    "https://m.media-amazon.com/images/M/MV5BYWJiOThiN2ItN2E1OS00OWMyLTg2NWEtOWI1OWUzMTBkNTAwXkEyXkFqcGc@._V1_.jpg",
+    "https://i.pinimg.com/originals/53/60/72/536072659d7f2b07a5f420f427cc17b9.jpg",
+    "https://c8.alamy.com/comp/K38C5G/10-things-i-hate-about-you-julia-stiles-heath-ledger-date-1999-K38C5G.jpg",
+    "https://preview.redd.it/julia-stiles-in-10-things-i-hate-about-you-1999-v0-xlflusuy1n8b1.jpg?width=640&crop=smart&auto=webp&s=cdade0f95668c15bcdd1f301532d18d40ea668f3",
+    "https://i.pinimg.com/736x/0a/d7/79/0ad779d49f541bc5c885c9ad2e79fb71.jpg",
+    "https://c8.alamy.com/comp/BGN46N/10-things-i-hate-about-you-year-1999-director-gil-junger-julia-stiles-BGN46N.jpg",
+    "https://ew.com/thmb/XIayOsAOV7wTvOkOWtq0eCPvCFg=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/10-things-i-hate-about-you-julia-stiles-032525-0eaba8f9bcbd4d7bbc8b70d19673f586.jpg",
+    "https://i.dailymail.co.uk/1s/2021/07/10/19/45280301-9776125-Impressed_The_actress_also_remarked_that_following_the_filming_o-a-28_1625941799578.jpg",
+    "https://live.staticflickr.com/7072/7000106423_9e03efa822.jpg",
+    "https://i.pinimg.com/originals/bb/1b/9f/bb1b9fc2e30135ed291960bde4a23ca4.jpg",
+    "https://i.pinimg.com/originals/d7/92/45/d792451033e1208eed49aca2a6bd7f09.jpg",
+    "https://i.pinimg.com/originals/45/16/3d/45163d54cd276a5eed75b5347f1750ff.jpg",
+    "https://i.pinimg.com/originals/2f/77/5d/2f775d1433a7f0d418719e61b6ec4617.jpg",
+    "https://i.pinimg.com/originals/b8/4d/92/b84d928c465b4aca704bf81b11d65029.jpg",
+    "https://i.pinimg.com/originals/86/85/ed/8685edbd3597a634649e96e379cc2dc3.jpg",
+    "https://i.pinimg.com/originals/3f/1a/cb/3f1acb4c8cfede961a0ba096eaeec97e.jpg",
+    "https://i.pinimg.com/originals/1d/f2/f2/1df2f2338f542d001060b3b1e641cf6c.jpg",
+    "https://m.media-amazon.com/images/I/81bLiDckbRL._AC_SL1500_.jpg",
+    "https://i5.walmartimages.com/asr/e45747de-87c6-4219-a738-639b4af3015e.79d588e7631487256acfdee51ec65046.jpeg",
+    "https://i.etsystatic.com/18039616/r/il/ab2e8f/1884700556/il_fullxfull.1884700556_e1dm.jpg",
+    "https://i5.walmartimages.com/asr/810931e0-5b91-405f-9723-b7ff46150686.814b05a6e3b9113ab531c0eaa3b46f3b.jpeg",
+    "https://i5.walmartimages.com/seo/Trailmaker-Tiny-Fun-Insulated-Lunch-Box-Containers-for-School-Kids-Boys-and-Girls-Unique-Unicorns_add7f09a-247c-4422-93f6-1d709790ec7f.4f08e8ec643d2df297e12682ecb12925.jpeg",
+    "https://i.ebayimg.com/images/g/CE4AAeSwSrJqt5f2/s-l1600.jpg",
+    "https://i.etsystatic.com/18039616/r/il/2034e0/1895451790/il_fullxfull.1895451790_49w4.jpg",
+    "https://rlv.zcache.com/girls_cute_pink_unicorn_rainbow_personalized_metal_lunch_box-rdc18d49836b04313a38baa4799d070ba_ekvv3_1080.jpg?rlvnet=1",
+    "http://static.demilked.com/wp-content/uploads/2018/03/5aaa1cc4c422b-funny-weird-wtf-stock-photos-28-5a3a5b135f099__700.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6250a8d257a6e83aaad50c8e/21f8aeb7-f5a8-4f29-8e71-fed4f66f2f3a/The-best-resorts-cook-islands+(12).jpg",
+    "https://undiscoveredpathhome.com/wp-content/uploads/2022/11/Cook-Islands-Luxury-Hotels-Aitutaki-Lagoon-Private-Island-Resort-2.jpeg",
+    "https://www.globalstaytops.com/wp-content/uploads/Family-Friendly-Luxury-Resorts-in-the-Cook-Islands.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5d11de6ea4412c00019662d3/1743381983315-LLNW7E3482M5VZCO61X4/Aerial+03.jpg",
+    "https://images.luxuryescapes.com/q_auto:best/p6yz3wkubhh7wyqnkmsi",
+    "https://luxegetaways.com/wp-content/uploads/2022/05/Pacific_Resort_Aitutaki_-_Rapae_Bay_Restaurant_2.jpeg",
+    "https://undiscoveredpathhome.com/wp-content/uploads/2022/11/Cook-Islands-Luxury-Hotels-pacific-resort-aitutaki-2-1160x869.jpeg",
+    "https://media.themoviedb.org/t/p/w220_and_h330_face/13dy7U0j12KOERsdj38WBmjSuOp.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNmEyZDFhMDQtMjQ0YS00MDQ1LWJjNzYtZDQ0ZTM2NmFiZjdkXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "https://cdn.moviefone.com/image-assets/214087/i2TomZ3p2UoHnTRslxDebRu0blL.jpg?d=480x720&q=50",
+    "https://m.media-amazon.com/images/M/MV5BMWFjODhiMmEtZDIyYi00MzFhLWE4NGEtMTg3ODEwZDQyMzhhXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/07/poster-film-korea-handsome-guys-2024-200x300.jpg",
+    "https://l450v.alamy.com/450vde/2x4acby/hollywood-kalifornien-april-30-yungblud-besucht-die-premiere-von-universal-pictures-the-fall-guy-im-dolby-theatre-am-30-april-2024-in-hollywood-quelle-jeffrey-mayer-mediapunch-2x4acby.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOWRjMjkxZTItOTZhOC00MTVkLTk4Y2UtYTNiZmFiODkxMjBhXkEyXkFqcGc@._V1_QL75_UX200_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYzM0OTdhOGYtNmYwNS00N2ZmLWIyODktMWE4MjRmNTYxMmJlXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "https://assets.topworksheets.com/b4e75905-1f1d-429d-b150-988f8d0e25fb/thumbnail.jpg?version=632dae8a1422b",
+    "https://irp.cdn-website.com/67a1fc11/dms3rep/multi/Poley_Dec2024_JPG28.JPG",
+    "https://lirp.cdn-website.com/67a1fc11/dms3rep/multi/opt/IMG_0610-edeb3daf-1411w.jpg",
+    "https://irp.cdn-website.com/67a1fc11/dms3rep/multi/DJI_0871.JPG",
+    "https://static.wixstatic.com/media/ba8d35_24a38855c60540ffbbe0a57ebe613dfa~mv2.jpg/v1/fill/w_564,h_441,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba8d35_24a38855c60540ffbbe0a57ebe613dfa~mv2.jpg",
+    "https://irp-cdn.multiscreensite.com/67a1fc11/files/uploaded/HILL PAINTING final.jpg",
+    "https://lirp.cdn-website.com/67a1fc11/dms3rep/multi/opt/aCDvGRjA-3ecc3acd-1920w.jpeg",
+    "https://irp.cdn-website.com/67a1fc11/dms3rep/multi/Poley_Dec2024_JPG39.JPG",
+    "https://static.vecteezy.com/system/resources/thumbnails/047/829/421/small_2x/christmas-frame-decoration-on-transparent-background-png.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/044/808/832/small_2x/christmas-border-design-on-transparent-background-free-png.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/052/883/671/small_2x/christmas-border-frame-green-fir-with-pine-tree-red-balls-and-berries-cones-and-candies-isolate-on-transparent-background-png.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/044/808/847/small_2x/christmas-border-design-on-transparent-background-free-png.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/029/091/265/small_2x/horizontal-seamless-background-for-christmas-and-new-year-png.png",
+    "https://pngimg.com/uploads/christmas/christmas_PNG3729.png",
+    "https://www.pngmart.com/files/22/Christmas-PNG-Isolated-HD.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/045/838/517/small_2x/christmas-tree-border-with-bells-on-transparent-background-png.png",
+    "https://live.staticflickr.com/4261/34919201542_2253f6c2e2_b.jpg",
+    "https://punchlistzero.s3.us-east-2.amazonaws.com/prod/uploads/2020/06/20222309/PID-1024x663.jpg",
+    "https://static.vecteezy.com/system/resources/thumbnails/024/619/095/small_2x/feline-beauty-in-nature-bengal-tiger-staring-striped-fur-walking-generated-by-ai-free-photo.jpg",
+    "https://coolwoodwildlifepark.com/wp-content/uploads/2022/07/5-Fascinating-Black-Animals.jpg",
+    "https://birdzpedia.com/wp-content/uploads/2025/05/black-animals-1.jpg",
+    "https://cff2.earth.com/uploads/2018/09/10211554/Inky-black-all-over-The-evolutionary-implications-of-melanism.jpg",
+    "http://images2.fanpop.com/image/photos/13100000/Black-Panther-animals-13128450-1440-900.jpg",
+    "https://animalko.com/wp-content/uploads/2025/03/15-Melanistic-Marvels-Rare-Black-Animals-That-Show-Natures-Beauty.jpg",
+    "https://www.hdwallpapers.in/download/black_panther_animal_stare_look_green_blur_background_4k_hd_black_panther-2560x1440.jpg",
+    "https://burstofstyle.com/wp-content/uploads/2024/04/mid-taper-with-curly-fringe.jpg",
+    "https://flawlesshair.com/wp-content/uploads/2024/11/Mid-Fade-Curly-Haircut-960x960.jpg",
+    "https://wellgroomedgentleman.com/wp-content/uploads/Bouncy-Curls-Dynamic-Taper-Fade-Haircut-for-Curly-Hair-1024x1024.jpg",
+    "https://i.pinimg.com/originals/9d/aa/fb/9daafb062583de7112e0e16e4b9308d3.jpg?nii=t",
+    "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2023/07/4-flat-top-temple-fade-hairstyle-for-wavy-hair.jpg?resize=993%2C1153&ssl=1",
+    "https://burstofstyle.com/wp-content/uploads/2024/04/classic-mid-taper-with-defined-curls.jpg",
+    "https://i.pinimg.com/736x/57/ce/51/57ce51c9d91d110f8b5d10abc3b1b966.jpg",
+    "https://i.pinimg.com/originals/f6/51/7f/f6517f582ba6f58c3c48088bee2a3fcf.jpg?nii=t",
+    "https://i.pinimg.com/736x/44/31/e7/4431e71d964033b9466b73e7de56fc87.jpg",
+    "https://collegepill.com/wp-content/uploads/2024/01/susan-cowsill.jpg",
+    "https://images.justwatch.com/poster/339559408/s166/season-2.jpg",
+    "https://www.wog.ch/nas/cover_large/ka/ka_9783756403691.jpg",
+    "https://movieplayer.net-cdn.it/t/images/2024/03/20/the-fall-guy-poster-italiano_jpg_240x0_crop_q85.jpg",
+    "https://4kbluray4u.com/wp-content/uploads/2024/07/The-Fall-Guy-2024-BD.jpg",
+    "https://live.staticflickr.com/3889/14376807781_5a089e0887_b.jpg",
+    "https://live.staticflickr.com/2912/14380233985_1e37b35fa3_b.jpg",
+    "https://live.staticflickr.com/3921/14193533888_f5a10bf169_b.jpg",
+    "https://live.staticflickr.com/3904/14379269464_5e90157022_b.jpg",
+    "https://www.aeroprecisionusa.com/the-hangar/wp-content/uploads/2023/11/solus-precision-rifle-at-outdoor-range.jpg",
+    "https://static-images.vnncdn.net/files/publish/2023/5/17/w-bac-ho-3-1-1809.jpg",
+    "https://logodix.com/logo/1035992.jpg",
+    "https://www.geckoandfly.com/wp-content/uploads/2016/12/geckoandfly-cursive-handwriting5.jpg",
+    "https://www.alphabetworksheetsfree.com/wp-content/uploads/2021/12/4-best-printable-handwriting-paper-template-printablee-1024x1024.jpg",
+    "http://www.activityshelter.com/wp-content/uploads/2016/06/handwriting-sheets-printable.jpg",
+    "https://www.printablee.com/postpic/2010/08/free-printable-primary-writing-paper_171300.jpg",
+    "https://www.printablee.com/postpic/2015/03/printable-kindergarten-writing-paper-template_296504.jpg",
+    "https://i.pinimg.com/originals/23/20/23/2320236c439bf69182b44a8fd2bae800.jpg",
+    "https://storage.googleapis.com/kami-uploads-public/library-resource-Ku2z21bJPh1f-t9iKdT-cursive-handwriting-sentences-worksheet-1-png",
+    "https://i.pinimg.com/736x/14/8d/a1/148da1fbcd96fd0facc70fdefb587e41.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/Lawren_Harris.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lawren_Harris.JPG/250px-Lawren_Harris.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lawren_Harris_in_his_Vancouver_Studio.jpg/250px-Lawren_Harris_in_his_Vancouver_Studio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Group-of-seven-artists.jpg/250px-Group-of-seven-artists.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lawren_Harris_North_Shore%2C_Lake_Superior_1926.jpg/250px-Lawren_Harris_North_Shore%2C_Lake_Superior_1926.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Jack_Pine%2C_by_Tom_Thomson.jpg/120px-The_Jack_Pine%2C_by_Tom_Thomson.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/20px-P_vip.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/600-artist-palette.svg/20px-600-artist-palette.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/20px-Maple_Leaf_%28from_roundel%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/40px-Flag_of_Ontario.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/Lawren_Harris.JPG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lawren_Harris.JPG/250px-Lawren_Harris.JPG?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mona_Lisa_detail_eyes.jpg/60px-Mona_Lisa_detail_eyes.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/60px-Flag_of_Canada.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lawren_Harris_at_his_studio_%28I0014623%29.jpg/960px-Lawren_Harris_at_his_studio_%28I0014623%29.jpg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lawren_Harris_at_his_studio_%28I0014623%29.jpg/250px-Lawren_Harris_at_his_studio_%28I0014623%29.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Lawren_Stewart_Harris%2C_Lake_and_Mountains%2C_1928_Oil_on_canvas.jpg/250px-Lawren_Stewart_Harris%2C_Lake_and_Mountains%2C_1928_Oil_on_canvas.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lawren_Harris_North_Shore%2C_Lake_Superior_1926.jpg/250px-Lawren_Harris_North_Shore%2C_Lake_Superior_1926.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Dialog-error-copyright.svg/20px-Dialog-error-copyright.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/Lawren_Harris.JPG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lawren_Harris.JPG/250px-Lawren_Harris.JPG?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "https://assets.artcanada.com/2026/04/03204450/Lawrence-Paul-Yuxweluptun-Indian-Residential-Schpp-Leaving-the-Shallow-Graves-and-Going-Home-1024x767.jpg?ver=1785252160",
+    "https://assets.artcanada.com/2026/03/03205545/ArtTruthAndReconciliation-Cover-ImageSiteVersion-300x225.jpg",
+    "https://assets.artcanada.com/2026/09/24155856/Fallexhibitionsnews-300x217.jpg?ver=1790280014",
+    "https://assets.artcanada.com/2026/04/03204959/09b_winston-li-1024x688.jpg",
+    "https://assets.artcanada.com/2026/03/03205237/ReginaArtAndArtists-cover-4-1024x779.jpg",
+    "https://assets.artcanada.com/2025/08/03210952/homepage-our-programming-1024x816.jpg",
+    "https://assets.artcanada.com/2026/09/26105749/ResourceStudents-Lifestyle-271x300.jpg",
+    "https://assets.artcanada.com/2026/09/26105746/IPad-Lifestyle-272x300.jpg",
+    "https://assets.artcanada.com/2026/08/27095925/AuthorsComp-NoBG-931x1024.png",
+    "https://www.vmcdn.ca/f/files/glaciermedia/import/lmp-all/899502-201606211515.jpg;w=1200;h=800;mode=crop",
+    "https://i.pinimg.com/originals/8b/e2/24/8be224eb14cab88e28ca5c2976e3d00f.jpg",
+    "https://image.invaluable.com/housePhotos/Levis/69/160469/H0696-L06151471.jpg",
+    "https://i.pinimg.com/736x/57/37/91/573791b592d319341422d03fd13286ba.jpg",
+    "https://artvalue.ca/assets/detail/1/1/fd4mnGj2.jpg",
+    "https://i.pinimg.com/736x/c1/bc/73/c1bc7350cb13e2caec8ffd18e1e89f95.jpg",
+    "https://www.cbc.ca/artsprojects/content/the2010s/2016_mountain_forms_full.jpg",
+    "https://ir.ozone.ru/s3/multimedia-1-f/7386011871.jpg",
+    "https://i.pinimg.com/originals/5d/ac/26/5dac26978d0d24e1ad571bff9d6c3abc.jpg",
+    "https://media.mutualart.com/Images/2024_08/01/23/68830704/mountains-HACOX.Jpeg?w=768",
+    "https://www.gallery.ca/sites/default/files/11950920.jpg",
+    "https://i.pinimg.com/736x/dc/fb/eb/dcfbeb338bb2da070b44b15fb1c4c9e9.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1a/Catalogue_of_Mr._Wm._Armstrong%27s_water_colors_%28microform%29_-_to_be_sold_by_auction_at_28_King_Street_West_on_Saturday%2C_22nd_Dec.%2C_at_2-_30_p.m_%28IA_cihm_10330%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/1/12/Catalogue_of_the_collections_of_the_Bostonian_society_in_the_memorial_halls_of_the_Old_state_house_%28IA_catalogueofcolle01bost%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lawren_Harris_Pic_Island%2C_1923_oil_on_wood_panel_McMichaels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://media.mutualart.com/Images/2013_04/18/02/025618522/f8793ce5-dd92-4739-bb0f-8c174003ab6c.Jpeg",
+    "https://i.pinimg.com/originals/43/9e/65/439e65726860a49cfb8d625dc0b38ab9.jpg",
+    "https://i.pinimg.com/originals/43/a8/56/43a856164bbf6653f97fba609d7b63e4.jpg",
+    "https://live.staticflickr.com/8335/29476112460_ff58e943d3_b.jpg",
+    "https://i.pinimg.com/originals/ea/fb/bd/eafbbd89d86de363577e04f649bff1bc.jpg",
+    "https://i.pinimg.com/736x/0f/db/a2/0fdba2fbcf1a68c5f669adda7dfd38d9.jpg",
+    "https://cdn.gallerix.asia/sr/H/501961502/415691779.jpg",
+    "https://i.pinimg.com/736x/f3/3f/67/f33f67cca3055a119ac3877f4242e80f.jpg",
+    "https://media.mutualart.com/Images/2009_07/08/0036/251439/2172464c-3b50-48a9-8ee3-7093933df9c8_g.Jpeg",
+    "https://artlogic-res.cloudinary.com/c_limit,f_auto,fl_lossy/ws-klinkhoff/usr/library/main/images/3833-image.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/70/An_illustrated_history_of_the_commonwealth_of_Pennsylvania_%28IA_illustratedhisto02egle%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d8/Art_of_the_British_empire_overseas_%28IA_artofbritishempi00holm%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Art_of_the_British_empire_overseas_%28IA_artofbritishempi00holmrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/7/72/Art_of_the_British_empire_overseas_%28IA_cu31924016794293%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Catalogue_of_the_50th_annual_exhibition_of_the_Ontario_Society_of_Artists%2C_1922.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/8/86/Chas._E._Pennock%27s_price_list_of_home-made_and_home-grown_fruit_trees_and_nursery_stock_-_that_grow_the_best%2C_bear_the_best_and_are_the_best_%28IA_chasepennockspri1893appl%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://artvalue.ca/assets/detail/8/18/x6ppRQh4.jpg",
+    "https://i.pinimg.com/originals/86/31/9d/86319d90a0bed5f2492f6d5c5b02ff50.jpg",
+    "https://artvalue.ca/assets/detail/7/67/o5EwDkuz.jpg",
+    "https://media.mutualart.com/Images/2012_04/29/03/032716676/c4dbc0d9-a6e2-417b-9d71-78f370cf2d21.Jpeg",
+    "https://ir.ozone.ru/s3/multimedia-1-6/7385954586.jpg",
+    "https://hammer.ucla.edu/sites/default/files/styles/large/public/migrated-assets/media/exhibitions/2015/Lawren_Harris/1926_North_Shore_Lake_Superior_Nat_Gal_Canada.jpg.jpeg?itok=bW1CD_Nm",
+    "https://artvalue.ca/assets/detail/2/22/GPBDXuyn.jpg",
+    "https://i.pinimg.com/736x/f1/99/52/f1995207c59057aa51d8b41893250f88.jpg",
+    "https://i.pinimg.com/736x/f1/d4/91/f1d491c461941d7a7a45a7aaae0965c4.jpg",
+    "https://hammer.ucla.edu/sites/default/files/styles/large/public/migrated-assets/media/exhibitions/2015/Lawren_Harris/1923_Lake_Superior_Thomson_Col.jpg.jpeg?itok=7wX9zHpi",
+    "https://live.staticflickr.com/4524/38417474036_c0b054c461_b.jpg",
+    "https://www.theglobeandmail.com/resizer/mr_HtBxypanyRAR7axJiDwqnGyQ=/620x0/filters:quality(80)/www.theglobeandmail.com/resizer/n-FYkVtlVURXI831hq_z9sykhaU=/arc-anglerfish-tgam-prod-tgam/I55BGKTQY5CF5JGC7SVJLQRYEI.jpg",
+    "https://a.1stdibscdn.com/archivesE/upload/a_291/33_15/lh_fromthenorthoflakesuperior_0/LH_FromTheNorthofLakeSuperior_1925_10x13_oilonpanel_D1_l.jpeg",
+    "https://artvalue.ca/assets/detail/9/59/mngi1asF.jpg",
+    "https://i.pinimg.com/736x/86/a3/4f/86a34f280c12831acc1861aeb995b207.jpg",
+    "https://www.picturethisgallery.com/wp-content/uploads/North-Shore-Lake-Superior-Lawren-Harris.jpg",
+    "https://i.pinimg.com/736x/2a/96/a0/2a96a056b6fa3348c2ebf89840e2e3a5.jpg",
+    "https://artvalue.ca/assets/detail/2/22/5vSwfXZD.jpg",
+    "https://media.mutualart.com/Images/2020_06/10/14/143355018/1503f5e0-9b85-4793-af30-b58f51ce4db2_570.Jpeg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/98/Catalogue_of_paintings_and_sculpture_by_British%2C_Spanish_and_Canadian_artists_and_international_graphic_art_%28IA_catalogueofpaint01cana%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/Catalogue_of_the_49th_annual_exhibition_of_the_Ontario_Society_of_Artists%2C_1921.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Federal_Register_1975-09-08-_Vol_40_Iss_174_%28IA_sim_federal-register-find_1975-09-08_40_174_4%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Geographic_code_system_%28IA_CAT10678446%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9e/History_of_the_state_of_New_York%2C_for_the_use_of_common_schools%2C_academies%2C_normal_and_high_schools%2C_and_other_seminaries_of_instruction_%28IA_historyofstateof00randnom%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/d/da/Lawren_Stewart_Harris%2C_Lake_and_Mountains%2C_1928_Oil_on_canvas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/3/34/Spalding%27s_official_golf_guide.._%28IA_spaldingsofficia00uniteds%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://ir.ozone.ru/s3/multimedia-1-b/7385946203.jpg",
+    "https://artvalue.ca/assets/detail/9/9/WqTAsr8J.jpg",
+    "https://i.pinimg.com/originals/3b/94/9f/3b949fdc5c45b94e604bd30b1cf1cb27.jpg",
+    "https://media.mutualart.com/Images/2018_04/16/15/155811255/c7acd3b8-32e2-4c4a-a6aa-b73fe9c9967b_570.Jpeg",
+    "https://i.pinimg.com/736x/c7/a9/3e/c7a93e21ed18fd9d53be2feb422134de.jpg",
+    "https://news.artnet.com/app/news-upload/2025/05/PCRE-11615-0002-01-1536x1236.jpg",
+    "https://i.pinimg.com/736x/50/31/03/50310388fb3548673c1e57fc4152f4e0.jpg",
+    "https://i.pinimg.com/originals/e5/fb/49/e5fb49aab2a41f311f73ada97ff132ea.jpg",
+    "https://www.klinkhoff.ca/custom_images/1200x630c/usr/library/main/images_blog_imported/harris__44a8248-new.jpg",
+    "https://i.pinimg.com/736x/a5/92/22/a59222f4811cb04c7c3bce298b0cc627.jpg",
+    "https://news.artnet.com/app/news-upload/2016/05/Harris_Coldwell-Lake-Superior-Lake-Superior-Sketch-XXII.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bryant%2C_and_his_friends-_%28IA_bryanthisfriends00wils%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Harper%27s_Monthly_Magazine%2C_Volume_119.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Journal_of_the_..._annual_convention_of_the_Protestant_Episcopal_Church_in_the_state_of_North_Carolina_%28serial%29_%28IA_journalofannualc20episc%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Rhode_Island_emigration_to_Nova_Scotia_%28IA_rhodeislandemigr00huli%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1d/The_historical_geography_of_the_clans_of_Scotland_%28IA_cu31924028086696%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://www.cbc.ca/artsprojects/content/the2010s/2016_mountain_forms_16x9.jpg",
+    "https://item.tscimg.ca/TSC/6/64/646/0x0/646095_ALTMORE1.jpg?impolicy=XL",
+    "https://artvalue.ca/assets/detail/8/28/rrwNKDHW.jpg",
+    "https://www.boston.com/wp-content/uploads/2016/03/83710e7e86f94ba5b6e59f7f926c6f90-83710e7e86f94ba5b6e59f7f926c6f90-0.jpg",
+    "https://nuvomagazine.com/wp-content/uploads/2015/10/Lawren-Harris-Winter-Landscape.jpg",
+    "https://artvalue.ca/assets/detail/8/48/ghjGQeKj.jpg",
+    "https://www.theglobeandmail.com/ece-images/8c9/arts/art-and-architecture/article30710388.ece/BINARY/w940/image.jpg",
+    "https://canadianart.ca/wp-content/uploads/2015/11/harris-mountain-glacier.jpg",
+    "https://i.pinimg.com/736x/34/c3/90/34c390feb2336fcdc6a72f6bbf777eb4.jpg",
+    "https://media.gettyimages.com/photos/lawren-s-harris-isolation-peak-anchors-a-wall-the-agos-mystic-opens-picture-id615444570",
+    "https://i.pinimg.com/originals/6b/99/2d/6b992d4b59ebe75dd9a76e58f7cabbd0.jpg?nii=t",
+    "https://artvalue.ca/assets/detail/6/26/YWeyvL1T.jpg",
+    "https://i.pinimg.com/736x/8d/20/25/8d202590a970329fc58eed156391d715.jpg?nii=t",
+    "https://media.gettyimages.com/photos/lawren-s-harris-isolation-peak-anchors-a-wall-the-agos-mystic-opens-picture-id615444564",
+    "https://i.pinimg.com/736x/f3/d2/2b/f3d22b2f505db459c7a90a454d18c030.jpg",
+    "https://ih1.redbubble.net/image.4927327752.2364/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "https://artchive.ru/res/media/img/orig/work/cef/66816.jpg",
+    "https://media.mutualart.com/Images/2013_05/11/12/122324372/a1890293-2a45-4759-9136-a195c5570f7b.Jpeg",
+    "https://artvalue.ca/assets/detail/7/17/PvKbkDeE.jpg",
+    "https://i.pinimg.com/736x/42/92/57/4292579e9dd7573ea99f2172a6178803.jpg",
+    "https://i.pinimg.com/736x/8f/63/90/8f639086e35b897bf82f1d66d5353345.jpg",
+    "https://ir.ozone.ru/s3/multimedia-1-6/7386002934.jpg",
+    "https://i.pinimg.com/736x/5f/c2/59/5fc25917bc73ff26167aef6600b95262.jpg",
+    "https://ir.ozone.ru/s3/multimedia-1-e/7385995994.jpg",
+    "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy/artlogicstorage/alanklinkhoff/images/view/4cd3f69d625dd14a3a778958f4c7fcffj/alanklinkhoffgallery-artdealers-appraisers-lawren-s.-harris-sun-fog-and-ice-smith-sound-arctic-painting-iv-1931.jpg",
+    "https://canadianart.ca/wp-content/uploads/2017/11/Lawren-Harris-Mountains-East-of-Maligne-Lake-Lot-118-1000x628.jpg",
+    "https://artvalue.ca/assets/detail/6/46/upCa6H2L.jpg",
+    "https://i.pinimg.com/736x/9f/46/65/9f4665d221319f7a59f3b5e9f169bc0c.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Davis_Strait_Icebergs.jpg/500px-Davis_Strait_Icebergs.jpg",
+    "https://i.pinimg.com/736x/ac/e2/09/ace2097d1a3e1f740c7a60558e7e7800.jpg",
+    "https://i.pinimg.com/736x/ea/73/13/ea73136bdd9354498fa3aa3327a77b74.jpg",
+    "https://northernwilds.com/wp-content/uploads/2015/12/124-Lawren-Harris-Nor_opt-1024x818.jpeg",
+    "https://storage.googleapis.com/antique-arena-assets/image/product/79981/ah79981(2).jpg",
+    "https://i.pinimg.com/736x/b1/f8/ad/b1f8ada67a5c39ad0aeffd2916f308b1.jpg",
+    "https://ir.ozone.ru/s3/multimedia-1-h/7385961725.jpg",
+    "https://artvalue.ca/assets/detail/8/58/3TH4GGLP.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emanuel_A._Petersen_-_Parti_med_isbjerg_fra_Davisstr%C3%A6det_-_1923.png/1280px-Emanuel_A._Petersen_-_Parti_med_isbjerg_fra_Davisstr%C3%A6det_-_1923.png",
+    "https://media.mutualart.com/Images/2018_02/08/08/081000491/66c397ff-3d58-4d3b-9570-2dd6634f7543_570.Jpeg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b5/A_remarkable_collection_of_autograph_letters_and_Lincolniana_from_the_library_of_a_New_York_gentleman_-_to_be_sold_November_13_and_14%2C_1916_%28IA_remarkablecollec05ande%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/3/36/Journal_of_the_..._annual_convention_.._%28IA_journalofannualc04woma%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Lotus_%28IA_lotus1924peac%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://artvalue.ca/assets/detail/5/35/KHPw4xjn.jpg",
+    "https://artvalue.ca/assets/detail/4/84/QhFFsNSR.jpg",
+    "https://i.pinimg.com/736x/ae/1e/3f/ae1e3f93a39fb0b37f812f8a86cf842b.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lawren_Harris_Bylot_Island%2C_South_Shore_from_Eclipse_Sound%2C_Arctic_Scetches_XXXIV_1930_oil_on_paperboard_103972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://thumbs.dreamstime.com/b/moscow-russia-march-stamp-printed-canada-shows-bylot-island-lawren-stewart-harris-centennial-definitives-high-values-serie-116022336.jpg",
+    "https://image.invaluable.com/housePhotos/Waddingtons/46/303846/H1012-L22047441.jpg",
+    "https://media.mutualart.com/Images/2020_06/10/14/142933988/9f330c11-37c3-46cb-9aa5-cde874d4efc0_570.Jpeg",
+    "https://cms.lochgallery.com/sites/default/files/client-files/artwork-images/harris-lawren/harrisbylotisland.jpg",
+    "https://ir.ozone.ru/s3/multimedia-1-0/7386042024.jpg",
+    "https://live.staticflickr.com/5492/10537615754_75649e9b8e_b.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_weekly_bulletin_of_new_books_added_to_the_Boston_Public_Library_%28IA_weeklybulletinof1922bost%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "https://media.mutualart.com/Images/2019_04/21/14/143348010/5ae2b8e1-25de-4339-ba68-c804a0f133b9.Jpeg",
+    "https://artvalue.ca/assets/detail/9/59/L1KDtVSi.jpg",
+    "https://i.pinimg.com/736x/2e/6a/4a/2e6a4a69fa63be030540cc7738e9eb16.jpg",
+    "https://www.klinkhoff.ca/custom_images/1200x630c/usr/library/main/images_blog_imported/harris_8265.jpg",
+    "https://artvalue.ca/assets/detail/8/18/gAjpYu5H.jpg",
+    "https://artvalue.ca/assets/detail/10/70/GL2bzuxs.jpg",
+    "https://i.pinimg.com/736x/43/59/c5/4359c5e8f2dbfbc3f61b146fd75337f8.jpg",
+    "https://artvalue.ca/assets/detail/4/54/uSshoSxx.jpg",
+    "https://www.artchive.com/wp-content/uploads/2023/04/Clouds-Lake-Superior-Harris-Lawren-c.-1923.jpg",
+    "https://artvalue.ca/assets/detail/8/98/UA88xU7K.jpg",
+    "https://media.mutualart.com/Images/2018_10/24/18/185511951/869b10df-2297-457a-8c92-e418eb1fcc4c_570.Jpeg"
+  ]
+}

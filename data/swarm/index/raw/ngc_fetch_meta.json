@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.gallery.ca/collection/artist/lawren-s-harris",
+    "error": "403 Client Error: Forbidden for url: https://www.gallery.ca/collection/artist/lawren-s-harris"
+  },
+  {
+    "url": "https://www.gallery.ca/collection/search-the-collection?keys=Lawren%20Harris&type=artwork",
+    "error": "403 Client Error: Forbidden for url: https://www.gallery.ca/collection/search-the-collection?keys=Lawren%20Harris&type=artwork"
+  }
+]

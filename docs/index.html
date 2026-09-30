@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lawren Harris — collection</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,520;0,9..144,620;1,9..144,520&family=Outfit:wght@360;480;560&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="gallery.css">
+</head>
+<body>
+<header class="bar">
+  <nav class="sorts" aria-label="Sort the wall">
+    <button type="button" data-sort="year" class="on">Year</button>
+    <button type="button" data-sort="title">Title</button>
+    <button type="button" data-sort="source">Source</button>
+    <button type="button" data-sort="size">Size</button>
+    <button type="button" data-sort="index">Index</button>
+  </nav>
+  <button type="button" id="dir" aria-label="Reverse sort order" title="Reverse order">↓</button>
+  <input id="q" type="search" placeholder="Search title, year, place" aria-label="Search images">
+  <nav class="modes" aria-label="How many files to show">
+    <button type="button" data-mode="works" class="on">One each</button>
+    <button type="button" data-mode="files">All files</button>
+  </nav>
+  <nav class="views" aria-label="Layout">
+    <button type="button" data-view="rows" class="on">Rows</button>
+    <button type="button" data-view="map">Color map</button>
+    <button type="button" data-view="style">Style</button>
+  </nav>
+  <label class="scale">Scale <input id="scale" type="range" min="140" max="340" value="200" aria-label="Row height"></label>
+  <span id="count"></span>
+</header>
+<div class="stage">
+<aside id="rail">
+  <div class="rail-head">
+    <p class="kicker">Collection checklist</p>
+    <h1>Lawren Harris</h1>
+    <p class="dates">1885–1970</p>
+    <div class="meter" aria-hidden="true"><span id="meter"></span></div>
+    <p class="stat" id="stat"></p>
+    <details class="about">
+      <summary>About this index</summary>
+      <p id="about"></p>
+    </details>
+  </div>
+  <div class="rail-tools">
+    <input id="q-list" type="search" placeholder="Filter the list" aria-label="Filter checklist">
+    <div class="chips" role="tablist" aria-label="Checklist filter">
+      <button type="button" data-list="all" class="on">All</button>
+      <button type="button" data-list="have">Held</button>
+      <button type="button" data-list="missing">Missing</button>
+      <button type="button" data-list="extra">Extra</button>
+    </div>
+    <div class="chips sort-list" role="tablist" aria-label="Checklist order">
+      <button type="button" data-lsort="year" class="on">Year</button>
+      <button type="button" data-lsort="title">A–Z</button>
+      <button type="button" data-lsort="gap">Gaps first</button>
+    </div>
+  </div>
+  <ol id="list"></ol>
+  <p id="focusnote" hidden></p>
+</aside>
+<main>
+  <div id="legend" hidden></div>
+  <div id="wall" class="wall"></div>
+</main>
+</div>
+<script src="catalog.js"></script>
+<script src="visual.js"></script>
+<script src="style.js"></script>
+<script src="gallery.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "heffel": {
+    "reachable": true,
+    "lots_found": 14,
+    "images_downloaded": 14,
+    "blocker": null,
+    "notes": "robots.txt 404; scraped public artist + exceptional-results pages"
+  },
+  "sothebys": {
+    "reachable": true,
+    "lots_found": 3,
+    "images_downloaded": 3,
+    "blocker": null
+  },
+  "cowley_abbott": {
+    "reachable": false,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "Cloudflare challenge — skipped (no bypass)"
+  },
+  "mayberry": {
+    "reachable": false,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "Cloudflare/bot protection HTTP 403 — skipped (no bypass)",
+    "page_url": "https://www.mayberryfineart.com/artists/lawren-harris"
+  },
+  "waddingtons": {
+    "reachable": true,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "reachable but no clear Lawren S. Harris lot links in search HTML (JS-rendered?)",
+    "sample_links": [],
+    "page_url": "https://www.waddingtons.ca/?s=Lawren+Harris"
+  },
+  "bonhams": {
+    "reachable": true,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "reachable but no clear Lawren S. Harris lot links in search HTML (JS-rendered?)",
+    "sample_links": [],
+    "page_url": "https://www.bonhams.com/search/?q=%22Lawren+Stewart+Harris%22"
+  },
+  "invaluable": {
+    "reachable": true,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "reachable but no clear Lawren S. Harris lot links in search HTML (JS-rendered?)",
+    "sample_links": [],
+    "page_url": "https://www.invaluable.com/artist/harris-lawren-stewart-abc/"
+  },
+  "mutualart": {
+    "reachable": true,
+    "lots_found": 0,
+    "images_downloaded": 0,
+    "blocker": "reachable but no clear Lawren S. Harris lot links in search HTML (JS-rendered?)",
+    "sample_links": [],
+    "page_url": "https://www.mutualart.com/Artist/Lawren-Stewart-Harris/8C0B5F6E0E0E0E0E"
+  },
+  "christies": {
+    "reachable": true,
+    "lots_found": 2,
+    "images_downloaded": 2,
+    "blocker": "Direct HTTP requests timeout; recovered via browser MCP"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "aic": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "fuzzy hits are Harry Callahan etc.; artist_title filter empty"
+  },
+  "met": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "artistOrCulture search"
+  },
+  "cleveland": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0
+  },
+  "smithsonian": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "DEMO_KEY ok; 0 fuzzy rows, no LSH paintings"
+  },
+  "harvard": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "status=401; DEMO_KEY unauthorized — need free API key"
+  },
+  "vam": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0
+  },
+  "europeana": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "wskey=apidemo"
+  },
+  "dpla": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "status=403; DEMO_KEY rejected"
+  },
+  "rijksmuseum": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "status=410; API key required / 410"
+  },
+  "yale_iiif": {
+    "probed": true,
+    "holds_harris": true,
+    "works": 1,
+    "detail": "manifest status=404; site Cloudflare; Wikidata Q49195217 confirms holding"
+  },
+  "princeton": {
+    "probed": true,
+    "holds_harris": true,
+    "works": 1,
+    "detail": "Wikidata Q106768901; Wayback confirms Lawren S. Harris Seacoast Landscape y1939-36; IIIF host NXDOMAIN"
+  },
+  "wikidata_intl": {
+    "probed": true,
+    "holds_harris": true,
+    "works": 3,
+    "detail": [
+      {
+        "qid": "Q49195217",
+        "title": "Abstraction, No. 3",
+        "inventory": "1950.42",
+        "collection": "Yale University Art Gallery",
+        "country": "United States"
+      },
+      {
+        "qid": "Q106768901",
+        "title": "Seacoast Landscape",
+        "inventory": "y1939-36",
+        "collection": "Princeton Art Museum",
+        "country": "United States"
+      },
+      {
+        "qid": "Q119721316",
+        "title": "Earley Houses, Reading, Berkshire",
+        "inventory": "10479",
+        "collection": "University of Reading",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  "mia": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "SSL/search probe; no confirmed LSH holdings in timebox"
+  },
+  "brooklyn": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "429 rate limit on opencollection search"
+  },
+  "mfa_boston": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "403 Forbidden on collections.mfa.org"
+  },
+  "pma": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "search page 200; no Lawren Harris hits in HTML"
+  },
+  "mfah": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "403 on emuseum JSON"
+  },
+  "dma": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "objects.json redirected to marketing site"
+  },
+  "hammer": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "404 on /collection search; 2016 Idea of North was loan show not permanent holding"
+  },
+  "phoenix": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "403"
+  },
+  "tate": {
+    "probed": true,
+    "holds_harris": false,
+    "works": 0,
+    "detail": "search redirected; no LSH artworks API hits"
+  },
+  "british_museum": {
+    "probed": true,
+    "holds_harris": null,
+    "works": null,
+    "detail": "403"
+  },
+  "orsay": {
+    "probed": true,
+    "holds_harris": "exhibition_only",
+    "works": 1,
+    "detail": "Decorative Landscape on Commons (exhibit); permanent NGC"
+  },
+  "artuk_reading": {
+    "probed": true,
+    "holds_harris": "possible",
+    "works": 1,
+    "detail": "Wikidata Q119721316; Art UK 403"
+  }
+}

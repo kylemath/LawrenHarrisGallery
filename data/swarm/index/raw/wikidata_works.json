@@ -1,0 +1,1361 @@
+{
+  "by_creator": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q49195217"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "1950.42"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Abstraction, No.\u00a03"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Yale University Art Gallery"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59494067"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "14668"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Mrs. Oscar Taylor"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1920-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59496884"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "15476"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "In the Ward, Toronto"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1919-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59496888"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "15477"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1928-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59497205"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "15673"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Equations in Space"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1936-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59498757"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "3351"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Afternoon Sun, North Shore, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59499692"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "3541"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Maligne Lake, Jasper Park"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59499947"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "36165"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Abstract Painting"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1950-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59500000"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "359"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "The Drive"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1912-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59501831"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "3708"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1926-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59502622"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "38020"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Beaver Pond"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59503728"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "16441"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Pic Island, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504014"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4279"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Greenland Mountains"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504510"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4561"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Baffin Island"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504587"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4562"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1926-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504678"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4594"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Lake Harbour, South Shore, Baffin Island, Morning"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504681"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4595"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Near Lake Harbour, Baffin Island South"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504686"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4596"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "From Opabin Pass, Rocky Mountains"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504690"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4597"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Noon from Slate Island, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1925-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504695"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4598"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Coldwell Bay, North of Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1923-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504697"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4599"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "High Country, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1925-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59504875"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4755"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Silent Land"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1920-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505409"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5013"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Red House, Winter"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1925-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505415"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5016"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Abstract Painting No. 20"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1943-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505564"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5005"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "January Thaw, Edge of Town"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505579"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5007"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Black Court, Halifax"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505596"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5008"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Baffin Island I"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505608"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5010"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Toronto Street, Winter Morning"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1920-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505621"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5011"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Lighthouse, Father Point"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59505642"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5012"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Italian Store in the Ward"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1922-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506765"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "6964"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Pine Plains, Ontario"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1915-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506770"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "6965"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Near Sand Lake, Algoma"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506773"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "6966"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Greenland"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1930-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506872"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "1693"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Shacks"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1919-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506921"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "17160"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Nature Rhythms"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1950-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59506925"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "17161"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Abstraction"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1939-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59507531"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "17159"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "White Triangle"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1939-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59509062"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "1036"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Winter Morning"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1914-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59517082"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "5014"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Baffin Island II"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1931-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59533205"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "30032"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Untitled"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1968-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59533268"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "30151"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Fish Stage, Quidi Vidi, Newfoundland"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59533944"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "36121"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Study for \"Lighthouse, Father Point\""
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1929-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59534275"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "38389"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "On the Agawa River, Algoma"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1919-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59536363"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "16550"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Lake Superior Sketch, No. 63"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1926-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59537727"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "36813"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Decorative Landscape"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1917-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59537988"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "4579"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Toronto Houses"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1919-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59539162"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "1193"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Snow II"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1915-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59548651"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "29451"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Pines and Sumac, Evening"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q59571719"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "1983.04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "North Shore, Lake Superior"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Mus\u00e9e national des beaux-arts du Qu\u00e9bec"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q63146199"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "47043"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Billboard (Jazz)"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1921-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q63148023"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "17614"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Abstract Sketch"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "National Gallery of Canada"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1936-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q106768901"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "y1939-36"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Seacoast Landscape"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Princeton Art Museum"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q119721316"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "10479"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Earley Houses, Reading, Berkshire"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "University of Reading"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q135103695"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "69/122"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Miners' Houses, Glace Bay"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Art Gallery of Ontario"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1925-01-01T00:00:00Z"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q138809335"
+      },
+      "inventory": {
+        "type": "literal",
+        "value": "2023.122"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q138809335"
+      },
+      "collectionLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Mus\u00e9e national des beaux-arts du Qu\u00e9bec"
+      },
+      "inception": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type": "literal",
+        "value": "1924-01-01T00:00:00Z"
+      }
+    }
+  ],
+  "has_works_in_collection": [],
+  "label_match_no_creator": [],
+  "source": "webfetch_sparql"
+}

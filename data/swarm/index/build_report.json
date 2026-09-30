@@ -1,0 +1,25 @@
+{
+  "distinct_works": 165,
+  "pct_with_year": 88.5,
+  "pct_with_collection": 35.8,
+  "raw_ingest_counts": {
+    "wikiart": 103,
+    "wikidata": 55,
+    "html": 25,
+    "commons": 87,
+    "curated": 86
+  },
+  "source_hit_counts": {
+    "wikiart": 78,
+    "wikidata": 55,
+    "commons": 53,
+    "wikipedia": 32,
+    "other": 24,
+    "ngc": 6,
+    "aci": 6
+  },
+  "paths": {
+    "jsonl": "/Users/fulkanjou/LaurenHarris/data/swarm/index/works_index.jsonl",
+    "csv": "/Users/fulkanjou/LaurenHarris/data/swarm/index/works_index.csv"
+  }
+}
