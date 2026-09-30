@@ -1,5 +1,7 @@
 # LawrenHarrisGallery
 
+🚀 **[Live Demo](https://kylemath.github.io/LawrenHarrisGallery)** 🚀
+
 Gallery of Art sortable
 
 ## Getting Started
